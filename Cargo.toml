@@ -1,0 +1,6 @@
+[package]
+name = "N3YC-EMF"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
