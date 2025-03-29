@@ -1,2 +1,2 @@
 # N3YC-EMF
-Electromagnetic Field Software
+Electromagnetic Field Library
